@@ -1,0 +1,5 @@
+*.db
+input.fasta
+nextclade_runs/*
+__pychache__/*
+.ipynb_checkpoints
